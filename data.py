@@ -1,43 +1,43 @@
 data = {
-    'name': 'James Tiberius Kirk',
-    'nickname': 'Jim',
-    'image': 'kirk.jpg',
-    'greeting_msg': 'Hi, there!',
+    'name': 'Hanzo main',
+    'nickname': 'sloth',
+    'image': '4.jpg',
+    'greeting_msg': 'Hello!!',
     'about': """
-        James Tiberius "Jim" Kirk was a male Human Starfleet officer in the 23rd century. He was arguably one of the most famous and highly decorated starship captains in the history of Starfleet. As the commanding officer of the Constitution-class starships USS Enterprise and USS Enterprise-A, Kirk served United Federation of Planets interests as an explorer, soldier, time-traveler, and diplomat.
+        Hanzo is gay, he married in 2014 with s76,his wife. He always gonna war in world of overwatch. He kill everyone who he got they in his sides with Golden bow. Sometimes, he fight by has his wife to help him. This is Hanjo's story..
     """,
     'work': {
-        'position': 'Starfleet officer',
-        'at': 'Starfleet'
+        'position': 'Hanjo#500',
+        'at': 'shimada Clan'
     },
     'courses': [
         {
-            'name': 'How to survive in Kobayashi Maru mission',
-            'school': 'Starfleet Academy',
+            'name': 'How to aim with golden arrows',
+            'school': 'shimada Clan',
             'url': 'kobayashimaru'
         },
         {
-            'name': 'Advanced Navigation',
-            'school': 'Starfleet Academy',
+            'name': 'Advanced aim like pro-player',
+            'school': 'shimada Clan',
             'url': 'adv-nav'
         },
         {
-            'name': 'Basic Warp Design',
-            'school': 'Starfleet Academy',
+            'name': 'Basic sonic arrows',
+            'school': 'shimada Clan',
             'url': 'warp-design'
         },
         {
             'name': 'Klingon Physiology',
-            'school': 'Valcan State Institute of Technology',
+            'school': 'shimada Institute of Technology',
             'url': 'klingon-phys'
         }
     ],
     'skills': [
-        'Leadership',
-        'Leadership',
-        'Human Language',
-        'Borg Language',
-        'Valcan Language',
-        'Sleeping'
+        'fightin with older',
+        'leader',
+        'kill someone by one shot!',
+        'to powerfull in sketter arrow',
+        'hard to kill with 1 by 1',
+        'Sleep every time by Ana'
     ]
 }
